@@ -1,0 +1,38 @@
+732808771
+[{'message': 'Could not determine source user.', 'code': 163}]
+891837728
+[{'message': 'Could not determine source user.', 'code': 163}]
+976895984
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+879513450862530563
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+171498377
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+77855577
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+2958905014
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+1038115370
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+757713746089443328
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+202657106
+[{'message': 'Could not determine source user.', 'code': 163}]
+830799711820972034
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+172374918
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+4664880382
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+768604105749172224
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+794972630730338304
+Failed to send request: EOF occurred in violation of protocol (_ssl.c:645)
+2899682045
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+4736442676
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/friendships/show.json?source_id=4736442676%0A&target_id=774820925493637120 (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7f038b621c88>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+732744119563476993
+Failed to send request: EOF occurred in violation of protocol (_ssl.c:645)
+907098734697295872
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)

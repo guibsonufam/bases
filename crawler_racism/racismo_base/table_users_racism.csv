@@ -1,0 +1,22 @@
+screen_name,id_name,retweet_count_post,following,followers,In-degree,followers_retweet,no_followers_retweet
+thomassantanas,865362602783854592,29342,103,56368,18935,6836,12044
+ddlloren,751429122073690112,10379,826,1502,8182,40,8120
+Kronemberg_Manu,3383675067,11628,242,671,6644,33,6595
+davidmirandario,2479861125,12206,608,17148,6633,390,6220
+bchartsnet,788794760764985344,2944,770,34299,3424,867,2504
+kayodesoy,711974647516897281,3650,482,335,2080,27,2022
+lucagliardi,774820925493637120,2288,136,2811,1277,21,1237
+ReginaldoLopes,50088692,2533,9677,18721,1157,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Medidas de Centralidade,,,,,,,
+,Betweenness,Closeness,PageRank,,,,
+thomassantanas,,,0.144385,,,,
+ddlloren,,,0.055486,,,,
+Kronemberg_Manu,,,0.04505,,,,
+davidmirandario,,,0.05144,,,,
+bchartsnet,,,0.023871,,,,
+kayodesoy,,,0.012605,,,,
+lucagliardi,,,0.00648,,,,
+ReginaldoLopes,,,0.007629,,,,
