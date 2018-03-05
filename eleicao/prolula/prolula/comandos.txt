@@ -1,0 +1,3 @@
+#### comando para pegar relações de mentions no arquivo prolula.json e remover os caracteres ({}, espaços, pular linhas)
+./jq-linux64 '{user_id_source: .user.id_str, entities_mentions: .entities.user_mentions[].id_str}' prolula.json | egrep -v "{|}" | awk -F':' '{print$2}' | sed -e 's/"//g'
+

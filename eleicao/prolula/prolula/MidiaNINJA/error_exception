@@ -1,0 +1,10 @@
+883693294907265025
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+853756662448082948
+[{'message': 'Could not determine source user.', 'code': 163}]
+225854923
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+3354081249
+Twitter error response: status code = 503
+231990260
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)

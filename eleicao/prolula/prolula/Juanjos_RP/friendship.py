@@ -24,7 +24,7 @@ api=tweepy.API(auth)
 #try:
 b = api.show_friendship(source_id='1722802370', target_id='796180188946112512')
     
-print (str(b))
+print (str(b), 'utf-8')
 #ids = []
 #for page in tweepy.Cursor(api.friends, user_id="191712148").pages():
 #    ids.extend(page)

@@ -14,7 +14,7 @@ acess_token_secret="AVr5CSGBXfoCpTiSmgYAjInqd1a9PYvHm7p9k9aHCYpoS"
 
 auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
 auth.set_access_token(acess_token,acess_token_secret)
-userID_target = '796180188946112512'
+userID_target = '312923505'
 api=tweepy.API(auth, wait_on_rate_limit=True)
 
 row_segue=[]
@@ -32,12 +32,13 @@ for linha in texto :
         a = (api.show_friendship(source_id=linha, target_id=userID_target))[0].following
         row_segue = (api.show_friendship(source_id=linha, target_id=userID_target))
 
+        #se caso os sources seguirem o target(userID_target)
         if a==True:
             row_segue = str(row_segue[0].id_str), str(row_segue[1].id_str)
             #print(row)        
             arq2.write(str(row_segue)+'\n')
             
-       
+       #caso não sigam
         elif a==False:
             #print("nao segue")
             row_naoSegue = str(row_segue[0].id_str), str(row_segue[1].id_str)

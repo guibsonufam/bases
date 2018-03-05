@@ -1,0 +1,6 @@
+4691081492
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+1364568619
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/friendships/show.json?source_id=1364568619%0A&target_id=148339735 (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7f67a5f20438>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+255098969
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/friendships/show.json?source_id=255098969%0A&target_id=148339735 (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7f67a6161ef0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
