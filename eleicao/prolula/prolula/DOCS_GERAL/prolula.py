@@ -53,7 +53,7 @@ while True:
                   str(status.retweeted_status.user.friends_count), \
                   str(status.retweeted_status.retweet_count), str(status.retweeted_status.favorite_count), str(status.text), \
                   str(status.retweeted_status.entities.get('hashtags')), \
-                  str(status.retweeted_status.entities.get('media')), str(status.retweeted_status.created_at)
+                  str(status.retweeted_status.entities.get('media'))
    
          else:
             row = str(status.created_at), "None", str(status.user.screen_name), str(status.user.id_str), str(status.user.followers_count), str(status.user.friends_count), \
