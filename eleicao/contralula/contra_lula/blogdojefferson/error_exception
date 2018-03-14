@@ -1,0 +1,20 @@
+41619627
+[{'code': 163, 'message': 'Could not determine source user.'}]
+720584073945726976
+[{'code': 163, 'message': 'Could not determine source user.'}]
+742077071313260544
+[{'code': 163, 'message': 'Could not determine source user.'}]
+774614003834359808
+[{'code': 163, 'message': 'Could not determine source user.'}]
+804736206496006145
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=60)
+893278071008010240
+[{'code': 163, 'message': 'Could not determine source user.'}]
+916761409509306371
+[{'code': 163, 'message': 'Could not determine source user.'}]
+942545915814006784
+[{'code': 163, 'message': 'Could not determine source user.'}]
+945771871668142080
+[{'code': 163, 'message': 'Could not determine source user.'}]
+956268798654500864
+[{'code': 163, 'message': 'Could not determine source user.'}]
